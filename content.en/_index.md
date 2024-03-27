@@ -18,4 +18,4 @@ I am primarly interested in developing the better society so some of the topics 
 - Communication
 - Art
 
-If you assume that we are interested in the same topics or that we can collaborate in any way, write me a message on [email](mailto:babicmilos217@gmail.com), [twitter](https://twitter.com/milosbabic_) or [facebook](https://www.facebook.com/milos.babic22). 😊
+If you assume that we are interested in the same topics or that we can collaborate in any way, write me a message on [email](mailto:babicmilos217@gmail.com), [twitter](https://twitter.com/milosbabic_), [linkedin](https://www.linkedin.com/in/milo%C5%A1-babi%C4%87-103b71171/) or [facebook](https://www.facebook.com/milos.babic22). 😊

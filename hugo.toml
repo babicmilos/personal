@@ -1,7 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://personal'
 languageCode = 'sr-SR'
 title = 'Милош Бабић (Milos Babic)'
-copyright = "Милош Бабић (Milos Babic) (CC BY 4.0)"
 theme = "hugo-bearcub"
 defaultContentLanguage = "sr"
 
@@ -19,6 +18,7 @@ enableRobotsTXT = true
         languageName = "english"
         LanguageCode = "en-US"
         contentDir = "content.en"
+        copyright = "Milos Babic (CC BY-NC-SA 4.0)"
     [languages.en.params]
         madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
     [languages.sr]
@@ -26,6 +26,7 @@ enableRobotsTXT = true
         languageName = "српски"
         LanguageCode = "sr-SR"
         contentDir = "content"
+        copyright = "Милош Бабић (CC BY-NC-SA 4.0)"
     [languages.sr.params]
         madeWith = "Направљено уз помоћ [Bear Cub](https://github.com/clente/hugo-bearcub)"
 
