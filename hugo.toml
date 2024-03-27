@@ -1,0 +1,46 @@
+baseURL = 'https://example.org/'
+languageCode = 'sr-SR'
+title = 'Милош Бабић (Milos Babic)'
+copyright = "Милош Бабић (Milos Babic) (CC BY 4.0)"
+theme = "hugo-bearcub"
+defaultContentLanguage = "sr"
+
+enableRobotsTXT = true
+
+[markup]
+    [markup.highlight]
+        lineNos = true
+        lineNumbersInTable = false
+        noClasses = false
+
+[languages]
+    [languages.en]
+        title = "Milos Babic"
+        languageName = "english"
+        LanguageCode = "en-US"
+        contentDir = "content.en"
+    [languages.en.params]
+        madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
+    [languages.sr]
+        title = "Милош Бабић"
+        languageName = "српски"
+        LanguageCode = "sr-SR"
+        contentDir = "content"
+    [languages.sr.params]
+        madeWith = "Направљено уз помоћ [Bear Cub](https://github.com/clente/hugo-bearcub)"
+
+
+[params]
+    description = "personal blog"
+    title = "Милош Бабић (Milos Babic)"
+    dateFormat = "2006-01-02"
+    hideUntranslated = false
+
+[params.social]
+    twitter = "_milosbabic"
+    facebook_admin = "1542987612"
+
+[params.author]
+    name = "Милош Бабић (Milos Babic)"
+    email = "babicmilos217@gmail.com"
+
