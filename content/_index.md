@@ -18,4 +18,4 @@ weight = "1"
 - Комуникација
 - Уметност
 
-Ако претпостављаш да нас занимају исте теме или да можемо на било који начин да сарађујемо, напиши ми поруку на [е-пошту](mailto:babicmilos217@gmail.com), [твитер](https://twitter.com/milosbabic_), [линкдин](https://www.linkedin.com/in/milo%C5%A1-babi%C4%87-103b71171/) или [фејсбук](https://www.facebook.com/milos.babic22). 😊
+Ако претпостављаш да нас занимају исте теме или да можемо на било који начин да сарађујемо, напиши ми поруку на [е-пошту](mailto:babicmilos217@gmail.com){:target="_blank"}, [твитер](https://twitter.com/milosbabic_), [линкдин](https://www.linkedin.com/in/milo%C5%A1-babi%C4%87-103b71171/) или [фејсбук](https://www.facebook.com/milos.babic22). 😊
